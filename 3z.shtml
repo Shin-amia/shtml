@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+	<!--#include file="ssi/top.shtml" -->
+	<body> 
+		<!--#printenv -->
+	</body>
+</html>
