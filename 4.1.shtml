@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <META HTTP-EQUIV="Content-Language" CONTENT="RU-ru"> 
+    <META NAME="Description" CONTENT="lab6"> 
+    <META NAME="Keywords" CONTENT="LAB6"> 
+    <META NAME="Author" CONTENT="Daniil"> 
+    <meta http-equiv="refresh" content="60">
+    <link rel="stylesheet" href="css/main.css">
+    <title>LAB6</title>
+</head>
+<body>
+    <table border="1" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+            <th colspan=2>Laboratornaiy rabora 6</th>
+        </tr>
+        <tr>
+            <th width="30%">Laboratornaiy rabora</th>
+            <th width="70%">Information</th>
+        </tr>
+        <tr>
+            <td width="20%">
+                <ul>
+                    <li><a href="https://moodle.kstu.ru/course/view.php?id=7315#section-2">Vse laboratornaie rabori</a></li>
+                </ul>
+            </td>
+            <td width="80%">
+                <ul>
+                    <li><p>Merezhnikov D.A</p></li>
+                    <li><p>Group 1211-23</p></li>
+                    <li><a href="https://www.kstu.ru/" title="KNITU">KNITU-KXTI</a></li>
+                </ul>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
